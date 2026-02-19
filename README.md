@@ -1,4 +1,4 @@
-# 🚀 Long Screenshot Tool
+# Long Screenshot Tool
 
 **Long Screenshot Tool** 是一款专为 Windows 11 设计的现代化长截图工具。它通过高频自适应抓帧技术和 OpenCV 图像拼接算法，解决了网页、文档、代码长图截取的痛点。
 
