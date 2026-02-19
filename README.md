@@ -26,7 +26,7 @@
 
 ### 📦 安装说明
 
-前往 [Releases](你的链接) 下载最新的 `Setup.exe`，按照向导安装即可。
+前往 [Releases](https://github.com/AstridStark25963/long-screenshot-tool/releases/tag/v1.0) 下载最新的 `lst_setup_v1.0.exe`，按照向导安装即可。
 
 ### 👨‍💻 开发环境
 - **Language**: Python 3.12+
