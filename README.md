@@ -34,6 +34,3 @@
 - **Core Engine**: OpenCV / NumPy / MSS
 - **Compiler**: Nuitka (C-compiled)
 - **Installer**: Inno Setup 6
-
----
-*Created with ❤️ by AstridStark25963*
